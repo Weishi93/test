@@ -3,6 +3,7 @@
  */
 public class BlockTest {
     public static void main(String[] args) {
+
         int x = 1;
         {
             int m = 3;
